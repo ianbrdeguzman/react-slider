@@ -1,6 +1,6 @@
 # React Slider
 
-Check it out [here!]()
+Check it out [here!](https://ianbrdeguzman.github.io/react-slider/)
 
 ## Created using:
 
